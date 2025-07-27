@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Boto3"
+		},
+		{
+			"path": "../../K8/k8s-DevOpsPro"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

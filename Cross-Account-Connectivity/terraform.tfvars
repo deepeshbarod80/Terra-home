@@ -1,0 +1,15 @@
+# Terraform variables file for cross-account S3 and EC2 connection
+
+# AWS Account IDs
+account1_id = "123456789012"
+account2_id = "210987654321"
+
+# AWS Regions
+primary_region   = "us-east-1"
+secondary_region = "us-west-2"
+
+# Cross-account role name (must exist in both accounts)
+cross_account_role = "CrossAccountAccessRole"
+
+# Environment
+environment = "dev"
